@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Avatar with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is the Avatar?",
+      "answers": ["Aang", "Zuko", "Katara"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What element is Aang?",
+      "answers": ["Air", "Fire", "Earth"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What nation is Zuko from?",
+      "answers": ["Fire", "Water", "Earth"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is Appa?",
+      "answers": ["Bison", "Lion", "Bear"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What element does Katara bend?",
+      "answers": ["Water", "Air", "Fire"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Aang's mentor?",
+      "answers": ["Gyatso", "Roku", "Zhao"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What tribe is Sokka from?",
+      "answers": ["Water", "Earth", "Fire"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Toph?",
+      "answers": ["Bender", "Healer", "Warrior"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What element is Toph?",
+      "answers": ["Earth", "Fire", "Air"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Zuko's uncle's name?",
+      "answers": ["Iroh", "Ozai", "Bumi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Fire Lord?",
+      "answers": ["Ozai", "Iroh", "Sozin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What city is Ba Sing Se?",
+      "answers": ["Earth", "Water", "Fire"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Aang's staff?",
+      "answers": ["Glider", "Sword", "Bow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Azula's bending?",
+      "answers": ["Fire", "Air", "Water"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Zuko's sister?",
+      "answers": ["Azula", "Mai", "Ty Lee"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the name of Aang's son?",
+      "answers": ["Tenzin", "Bumi", "Mako"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What element is Tenzin?",
+      "answers": ["Air", "Water", "Fire"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the moon spirit?",
+      "answers": ["Yue", "Roku", "La"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Korra's title?",
+      "answers": ["Avatar", "Chief", "Leader"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a chi blocker?",
+      "answers": ["Ty Lee", "Mai", "Zhao"],
       "correctAnswerIndex": 0
     }
   ]
